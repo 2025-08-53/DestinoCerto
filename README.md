@@ -13,7 +13,7 @@
 
 Este projeto simula um **Sistema ERP (Enterprise Resource Planning)** desenvolvido em **Portugol**, utilizando o ambiente **Visualg**, com foco na agência de turismo fictícia chamada **"Destino Certo"**.
 
-O sistema é dividido em **módulos independentes e interligados**, representando as principais áreas operacionais de uma agência de turismo, como financeiro, vendas, RH, logística e BI.
+O sistema é dividido em **módulos independentes e integráveis**, representando as principais áreas operacionais de uma agência de turismo: finanças, recursos humanos, vendas, estoque e operações estratégicas.
 
 ---
 
@@ -67,37 +67,29 @@ Um **ERP** é um sistema de gestão que integra todos os dados e processos de um
 **Funcionalidades:**
 - Entrada e saída de itens.
 - Controle de brindes e panfletos.
-- Relatórios de materiais em falta ou em baixa.
+- Relatórios de materiais em falta ou com estoque baixo.
 
 ---
 
-### 5. Módulo de Operações e Logística 🚌
-**Objetivo:** Gerenciar transfers, passeios e equipes em campo.
+### 5. Módulo de Operações Estratégicas 📊🚌🤝  
+**Objetivo:** Consolidar ações operacionais, estratégicas e de inteligência de dados.
 
 **Funcionalidades:**
-- Programação de passeios e veículos.
+
+#### 📍 Logística e Execução:
+- Controle de transfers e passeios programados (horários, veículos).
 - Escalonamento de guias e motoristas.
 - Emissão de itinerários detalhados.
 
----
-
-### 6. Módulo de Projetos e Parcerias 🤝
-**Objetivo:** Desenvolver promoções e gerenciar parcerias comerciais.
-
-**Funcionalidades:**
-- Cadastro de projetos e promoções.
-- Gestão de parcerias com hotéis e transportadoras.
-- Controle do progresso de campanhas.
-
----
-
-### 7. Módulo de Business Intelligence (BI) 📈
-**Objetivo:** Fornecer dados estratégicos e relatórios de desempenho.
-
-**Funcionalidades:**
+#### 📈 Business Intelligence:
 - Análise de vendas por destino.
 - Relatórios de pacotes mais vendidos.
-- Desempenho geral por período.
+- Desempenho geral por período (faturamento, reservas, etc).
+
+#### 🤝 Projetos e Parcerias:
+- Cadastro de projetos e promoções.
+- Gestão de parcerias com hotéis e empresas de transporte.
+- Monitoramento do andamento de campanhas e acordos.
 
 ---
 
