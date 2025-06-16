@@ -5,7 +5,7 @@
 **Endereço:** Setor G Norte – QNG S/N Área, Taguatinga-DF  
 **Turma:** 2025.08.53 - Técnico em Desenvolvimento de Sistemas  
 **UC 3:** Desenvolver Algoritmos  
-**Professor Orientador:** Hudson Neves
+**Professor Orientador:** Hudson Neves e Silva
 
 ---
 
@@ -121,9 +121,31 @@ Um **ERP** é um sistema de gestão que integra todos os dados e processos de um
 
 ## 👥 Equipe
 
-Este projeto foi desenvolvido de forma **colaborativa** pelos alunos da **Turma 2025.08.53** do curso **Técnico em Desenvolvimento de Sistemas**, na **Unidade Curricular 3: Desenvolver Algoritmos**, sob orientação do professor **Hudson Neves**.
+Este projeto foi desenvolvido de forma **colaborativa** pelos alunos da **Turma 2025.08.53** do curso **Técnico em Desenvolvimento de Sistemas**, na **Unidade Curricular 3: Desenvolver Algoritmos**, sob orientação do professor **Hudson Neves e Silva**.
 
-Cada grupo de alunos ficou responsável por um dos módulos do sistema, promovendo o trabalho em equipe e a aplicação prática dos conceitos aprendidos.
+### Alunos Participantes:
+
+- Cauã Pedra de Oliveira  
+- César Augusto Soares Lins  
+- Erik Eike Silva de Paiva  
+- Gabriel Augusto Ramalho Mota  
+- Gabriel Toledo de Faria  
+- Glauber Máximo Silva Sampaio  
+- Guilherme Alves Fernandes  
+- João Gabriel Magalhães Veiga  
+- João Vitor Lino Teixeira  
+- Júlio César da Silva Ferreira  
+- Kauã Thierry Nunes Duarte Lima  
+- Luciana Alves Nascimento  
+- Luis Eduardo de Sousa  
+- Luiz Felipe Rodrigues da Silva  
+- Luiz Fernando Grimello Tavares  
+- Marcos Lucas Miranda Melo  
+- Nathanael Bueno Simplício Silva  
+- Pedro Matos de Lima  
+- Ryan Gabriel Araújo Almeida  
+- Tiago Martins de Oliveira  
+- William dos Santos Rodrigues  
 
 ---
 
